@@ -13,5 +13,4 @@ def get_birthday():
         print("Resposta incorreta. Reiniciando o programa.")
         get_birthday()
 
-
 get_birthday()
